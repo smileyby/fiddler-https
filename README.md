@@ -21,6 +21,9 @@
 * 测试结果：
 
 > 经测试，在手机上安装证书的过程中`vivo`、`oppo`可直接安装，`魅族`则需要输入证书的存取密码（这个目前还没找到在哪里设置，有知道的小伙伴可以告诉我一下）。
+> 
+> ![](http://oqpmmru7y.bkt.clouddn.com/S70710-095905.jpg)
+> ![](http://oqpmmru7y.bkt.clouddn.com/S70710-095909.jpg)
 
 *以上都是基于，fiddler可以抓取手机数据的基础上，如果你不知道怎么配置可参考：[http://jingyan.baidu.com/article/03b2f78c7b6bb05ea237aed2.html](http://jingyan.baidu.com/article/03b2f78c7b6bb05ea237aed2.html)*
 
