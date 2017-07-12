@@ -27,6 +27,10 @@
 
 *以上都是基于，fiddler可以抓取手机数据的基础上，如果你不知道怎么配置可参考：[http://jingyan.baidu.com/article/03b2f78c7b6bb05ea237aed2.html](http://jingyan.baidu.com/article/03b2f78c7b6bb05ea237aed2.html)*
 
+## 新问题
+
+上面是在移动端利用fiddler抓取https数据，如果我想在电脑端利用模拟器抓取https是否可以呢？
+
 
 
 
